@@ -8,4 +8,4 @@ HTTP server based in libMicroHttpd (Linux with C language)
 
 
 
-[SPA_SERVER]: spaServer/readme.md "Wrapper basic of a libmicrohttpd server"
+[SPA_SERVER]: spaServer/README.md "Wrapper basic of a libmicrohttpd server"
