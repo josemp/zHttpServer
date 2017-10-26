@@ -4,7 +4,7 @@
 
 
 
-![Diseño](spaServer.png)
+![Diseño](disenos/spaServer.png)
 
 
 
